@@ -7,4 +7,4 @@ redirect: https://github.com/abueg/posters/blob/main/2018b_EcoMethodsCourse/READ
 importance: 6
 ---
 
-poster
+check out poster here: [https://github.com/abueg/posters/blob/main/2018b_EcoMethodsCourse/README.md](https://github.com/abueg/posters/blob/main/2018b_EcoMethodsCourse/README.md)

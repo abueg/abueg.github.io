@@ -7,4 +7,4 @@ redirect: https://github.com/abueg/posters/blob/main/2024_GalaxyCommunityConfere
 importance: 2
 ---
 
-poster
+check out poster here: [https://github.com/abueg/posters/blob/main/2024_GalaxyCommunityConference/README.md](https://github.com/abueg/posters/blob/main/2024_GalaxyCommunityConference/README.md)
