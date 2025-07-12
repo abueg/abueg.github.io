@@ -175,6 +175,7 @@ exclude:
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
+  - assets/jupyter/blog.ipynb
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -266,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Abueg]
+  first_name: [Linelle]
 
   style: apa
   locale: en
