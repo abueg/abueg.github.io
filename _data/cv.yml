@@ -57,15 +57,20 @@
       institution: Vertebrate Genome Lab / Jarvis Lab, Rockefeller University
       year: 2021 - 2024
       description:
-        - "Genome assembly of >100 vertebrate species using PacBio HiFi long reads, with scaffolding using optical maps and Hi-C contacts"
-        - "Installed and managed a multi-user, production-quality Galaxy server configured to issue jobs to our institution’s Slurm cluster, involving customized job destinations and local tools"
-        - "Maintained a PostGreSQL database for the Galaxy server, including writing queries to find specific job information and statistics"
-        - "Wrote and maintained Galaxy tool wrappers for various software"
-        - "Experience with conda and pip for software/environment management"
-        - "Worked with PacBio and Oxford Nanopore software suites for basecalling, demultiplexing, CCS"
-        - "NCBI submission experience: whole genome sequence objects, BioProjects, BioSamples, and Sequence Read Archive (SRA) objects"
-        - "Version control and collaborative coding using git (working on branches, pull requests, rebasing, merging)"
-        - "Managed AWS users, groups, and policies for an account with multiple buckets where users require different, bucket-specific permissions"
+        - title: Long read genome assembly
+          contents: 
+            - "Genome assembly of >100 vertebrate species using PacBio HiFi long reads, with scaffolding using optical maps and Hi-C contacts"
+            - "Worked with PacBio and Oxford Nanopore software suites for basecalling, demultiplexing, CCS"
+            - "NCBI submission experience: whole genome sequence objects, BioProjects, BioSamples, and Sequence Read Archive (SRA) objects"
+        - title: Galaxy platform
+          contents:
+            - "Installed/managed a multi-user, production-quality Galaxy server interfacing with our institution’s Slurm cluster, involving customized job destinations and local tools"
+            - "PostGreSQL database maintenance, writing & maintaining Galaxy tool wrappers for various software"
+        - title: General bioinformatic/computational experience
+          contents: 
+            - "conda and pip for software/environment management"
+            - "Version control and collaborative coding using git (working on branches, pull requests, rebasing, merging)"
+            - "Managed AWS users, groups, and policies for an account with multiple buckets where users require different, bucket-specific permissions"
 
     - title: Research Assistant
       institution: Ichthyology, American Museum of Natural History
@@ -77,9 +82,8 @@
       institution: Munshi-South Lab, Fordham University
       year: 2017-2019
       description:
-        - "Whole-exome sequencing of <i>Peromyscus</i> spp. data, from raw reads to reference mapping to selection and outlier analyses"
-        - "Spatial analysis (calculating environmental variables from census and geological survey data) and map-making in ArcGis and QGIS"
-        - "Writing bash and R scripts for retrieving information on candidate genes using outlier SNP coordinates and reference annotations, plus generating allele frequencies for outlier SNPs"
+        - "Whole-exome sequencing of <i>Peromyscus</i> spp. data: cutadapt, bwa, GATK, vcftools, pcadapt, LEA/LFMM, BayeScan, bash & R scripting"
+        - "Spatial analysis of environmental variables and map-making: ArcGis and QGIS"
 
 - title: Teaching experience
   type: time_table
@@ -90,7 +94,6 @@
       description:
         - "Aided practicals using real nematode data on UseGalaxyEU infrastructure for an in-person class size of ~30"
         - "Gave interactive lectures showing students how to use the UseGalaxy interface for analyses, adapting the lesson plan on the fly to address areas where the class had more questions"
-        - "Answered students' questions, both technical and theoretical, regarding course material both under my direct purview and covered by other instructors"
     - title: Assembly and Annotation of Genomes course
       institution: Physalia Courses
       year: Apr '23 & Mar '24
@@ -103,7 +106,6 @@
       year: July 2023
       description:
         - "Delivered lecture on measuring de novo genome assembly quality, with examples of good and bad cases taken from real animal data seen in our lab, as well as with ideal human benchmarking data"
-        - "Acted as TA for in-person practical portions taking place using command line on University of Otago compute"
     - title: Genome Assembly Workshop
       institution: The Rockefeller University
       year: Nov 2022
@@ -113,9 +115,7 @@
       institution: Fordham University
       year: 2018 - 2019
       description:
-        - "Assisted with administering labs involving molecular biology techniques and statistical concepts pertaining to multiple topics in genetics"
-        - "Assessed student understanding of lesson material through one-on-one interactions in class"
-        - "Oversaw hands-on labs for variety of fundamental biology topics, such as microscopy, cellular respiration, photosynthesis, and dissections"
+        - "Assisted with administering labs involving molecular biology techniques and statistical concepts pertaining to multiple topics in genetics, as well as fundamental biology topics such as microscopy, cellular respiration, photosynthesis, and dissections"
 
 - title: Field & wet lab experience
   type: time_table
