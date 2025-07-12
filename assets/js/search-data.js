@@ -34,42 +34,42 @@ ninja.data = [{
           title: 'Using the VGP workflows to assemble a vertebrate genome with HiFi and Hi-C...',
           description: "Video tutorial: Linelle Abueg",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_vgp_tut/";
+              window.location.href = "/projects/1_vgp_tut.html";
             },},{id: "projects-reproducible-amp-high-quality-genome-assembly-on-public-computational-infrastructure-click-link-for-video",
           title: 'Reproducible &amp;amp; high-quality genome assembly on public computational infrastructure (click link for video)...',
           description: "Presentation for Biodiversity Genomics 2022",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_biodiversity_genomics/";
+              window.location.href = "/projects/2_biodiversity_genomics.html";
             },},{id: "projects-reproducible-and-high-quality-genome-assembly-and-evaluation-workflows-in-galaxy",
           title: 'Reproducible and high-quality genome assembly and evaluation workflows in Galaxy',
           description: "Poster presentation at Biology of Genomes (Cold Spring Harbor: 2022)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_2022_BoG/";
+              window.location.href = "/projects/3_2022_BoG.html";
             },},{id: "projects-landscape-genomics-of-white-footed-mice-peromyscus-leucopus-along-an-urban-to-rural-gradient-in-the-new-york-city-metropolitan-area",
           title: 'Landscape genomics of white-footed mice (Peromyscus leucopus) along an urban-to-rural gradient in the...',
           description: "Poster presentation at Evolution (Montpellier, France: 2018)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_2018a_evolution/";
+              window.location.href = "/projects/4_2018a_evolution.html";
             },},{id: "projects-exomic-differences-between-peromyscus-maniculatus-populations-under-different-predator-regimes",
           title: 'Exomic differences between Peromyscus maniculatus populations under different predator regimes',
           description: "Poster presentation for Ecological Methods Course (Louis Calder Center, NY: December 2018)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_2018b_ecomethods/";
+              window.location.href = "/projects/5_2018b_ecomethods.html";
             },},{id: "projects-automated-reference-genome-assembly-by-galaxy-and-the-vertebrate-genome-project",
           title: 'Automated Reference Genome Assembly by Galaxy and the Vertebrate Genome Project',
           description: "Poster presentation at Galaxy Community Conference (Brisbane, Australia: 2023)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_2023_gcc/";
+              window.location.href = "/projects/6_2023_gcc.html";
             },},{id: "projects-automated-reference-genome-assembly-in-galaxy-an-update",
           title: 'Automated Reference Genome Assembly in Galaxy - An Update',
           description: "Poster presentation at Galaxy Community Conference (Brno, Czech Republic: 2024)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_2024a_gcc_pipeline/";
+              window.location.href = "/projects/7_2024a_gcc_pipeline.html";
             },},{id: "projects-takeaways-from-teaching-long-read-genome-assembly-using-galaxy",
           title: 'Takeaways from teaching long-read genome assembly using Galaxy',
           description: "Poster presentation at Galaxy Community Conference (Brno, Czech Republic: 2024)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_2024b_gcc_teaching/";
+              window.location.href = "/projects/8_2024b_gcc_teaching.html";
             },},{
         id: 'social-email',
         title: 'email',
