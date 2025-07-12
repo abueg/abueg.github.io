@@ -7,7 +7,7 @@ subtitle: Scientific Systems Administrator at The Rockefeller University
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>art by <a href="https://www.willcolpoys.com/">will colpoys</a></p>
 
