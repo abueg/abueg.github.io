@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Scientific Systems Administrator
+subtitle: Scientific Systems Administrator at The Rockefeller University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>The Rockefeller University</p>
-    <p>1230 York Avenue, New York, NY</p>
+    <p>art by <a href="https://www.willcolpoys.com/">will colpoys</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a bioinformatician who enjoys using genomic resources and tools to answer evolutionary questions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have had experience conducting analyses for population genomic questions related to neutral population structure as well as potential signatures of adaptive evolution. I have extensive experience with next-generation and third-generation sequencing, particularly targeted exome sequencing and ddRAD approaches for the former, and PacBio and Oxford NanoPore long reads for the latter. I've worked exclusively in non-model organisms, so I am passionate about making resources available for researchers studying non-model systems, a goal I contributed to in my previous work at the [Vertebrate Genome Lab](https://www.vertebrategenomelab.org/). In my current position at The Rockefeller University's [HPC Resource Center](https://www.rockefeller.edu/hpc/), I continue to help researchers get their work done by educating them on how to best use HPC resources.
