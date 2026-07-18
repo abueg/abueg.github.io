@@ -17,6 +17,7 @@
       items:
         - bash/shell (intermediate)
         - R (intermediate)
+        - python (beginner-intermediate)
         - Galaxy (tool XML and server maintenance)
         - SQL (managing PostGreSQL database)
     - title: General professional skills
@@ -50,27 +51,36 @@
         - "Dean's List & <i>cum laude</i>"
         - "Minors in Classical Civilization, Philosophy"
 
-- title: Bioinformatics experience
+- title: Employment history
   type: time_table
   contents:
+    - title: Scientific Systems Administrator
+      institution: High Performance Computing Resource Center, Rockefeller University
+      year: 2024 - present
+      description:
+        - title: User education/engagement
+          contents: 
+            - "Modernized our resource center's website, which included porting it to MkDocs as well as writing detailed documentation aimed at a wide audience, from new users to seasoned bioinformaticians looking to scale up"
+            - "Wrote and delivered tailored presentations including live demos for labs interested in HPC capabilities, focusing on topics of particular interest to the target lab"
+            - "Individual consultation running the gamut from basic troubleshooting (quota issues, conda, etc.) to code review for efficiency and porting of old workflows after our compute fleet's OS upgrade"
+        - title: "Systems monitoring and reporting"
+          contents: 
+            - "Crafted monthly cluster reports for heads of lab that summarize their lab members' cluster usage as well as storage quota/usage over time (python + R)"
+            - "Implemented monitoring for Lustre filesystem load so our team could receive warning when OSS/VMs were experiencing peaking load (checkmk local check)"
+            - "Developed checks for data center PDU bank-level current monitoring to help with data center density planning (checkmk local checks)"
+
     - title: Bioinformatics Support Specialist
       institution: Vertebrate Genome Lab / Jarvis Lab, Rockefeller University
       year: 2021 - 2024
       description:
-        - title: Long read genome assembly
-          contents: 
-            - "Genome assembly of >100 vertebrate species using PacBio HiFi long reads, with scaffolding using optical maps and Hi-C contacts"
-            - "Worked with PacBio and Oxford Nanopore software suites for basecalling, demultiplexing, CCS"
-            - "NCBI submission experience: whole genome sequence objects, BioProjects, BioSamples, and Sequence Read Archive (SRA) objects"
-        - title: Galaxy platform
-          contents:
-            - "Installed/managed a multi-user, production-quality Galaxy server interfacing with our institution’s Slurm cluster, involving customized job destinations and local tools"
-            - "PostGreSQL database maintenance, writing & maintaining Galaxy tool wrappers for various software"
-        - title: General bioinformatic/computational experience
-          contents: 
-            - "conda and pip for software/environment management"
-            - "Version control and collaborative coding using git (working on branches, pull requests, rebasing, merging)"
-            - "Managed AWS users, groups, and policies for an account with multiple buckets where users require different, bucket-specific permissions"
+          - "Genome assembly of >100 vertebrate species using PacBio HiFi long reads, with scaffolding using optical maps and Hi-C contacts"
+          - "Worked with PacBio and Oxford Nanopore software suites for basecalling, demultiplexing, CCS"
+          - "NCBI submission experience: whole genome sequence objects, BioProjects, BioSamples, and Sequence Read Archive (SRA) objects"
+          - "Installed/managed a multi-user, production-quality Galaxy server interfacing with our institution’s Slurm cluster, involving customized job destinations and local tools"
+          - "PostGreSQL database maintenance, writing & maintaining Galaxy tool wrappers for various software"
+          - "conda and pip for software/environment management"
+          - "Version control and collaborative coding using git (working on branches, pull requests, rebasing, merging)"
+          - "Managed AWS users, groups, and policies for an account with multiple buckets where users require different, bucket-specific permissions"
 
     - title: Research Assistant
       institution: Ichthyology, American Museum of Natural History
@@ -88,7 +98,7 @@
 - title: Teaching experience
   type: time_table
   contents:
-    - title: Hands-on course in genome sequencing, assembly, and downstream analyses
+    - title: <a href="https://meetings.embo.org/event/24-genome-sequencing">Hands-on course in genome sequencing, assembly, and downstream analyses</a>
       institution: European Molecular Biology Organization (EMBO) courses
       year: Jan - Feb 2024
       description:
@@ -101,7 +111,7 @@
         - "Led hands-on exercises with simulated yeast data using UseGalaxyEU infrastructure for an online class size of 50"
         - "Interwove practical tasks with lecture to explain genome assembly concepts to an audience of varied experience with genome assembly and bioinformatics in general, and at various career stages"
         - "As TA, helped students troubleshoot problems and walked through difficult concepts in different ways to facilitate students' understanding of lecture material"
-    - title: Long Read Genome Assembly workshop
+    - title: <a href="https://www.genomics-aotearoa.org.nz/news-and-events/advanced-genome-assembly-workshop">Long Read Genome Assembly workshop</a>
       institution: Genomics Aotearoa & New Zealand eScience Infrastructure @ University of Otago
       year: July 2023
       description:
@@ -145,7 +155,7 @@
       items:
         - Undergraduate Research Grant, Fordham College at Rose Hill ($3,800)
         - Calder Summer Undergraduate Research Grant, Louis Calder Center ($2,200)
-    - year: 2024 - 2018
+    - year: 2014 - 2018
       items:
         - Fordham Scholarship, Fordham College of Rose Hill ($48,145 / year)
         - National Merit Scholarship ($2,000 / year)
