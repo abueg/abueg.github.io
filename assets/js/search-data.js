@@ -70,6 +70,11 @@ ninja.data = [{
           description: "Poster presentation at Galaxy Community Conference (Brno, Czech Republic: 2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_2024b_gcc_teaching.html";
+            },},{id: "projects-rockefeller-university-hpc-resource-center-zine",
+          title: 'Rockefeller University HPC Resource Center zine',
+          description: "Handout zine created for HPC users as a quick reference / advertising material",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_ruhpc_zine.html";
             },},{
         id: 'social-email',
         title: 'email',
