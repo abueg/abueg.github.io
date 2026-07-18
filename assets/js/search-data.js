@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "See below for an abbreviated version of my CV (last updated: July 2024). Please view the PDF version for the full CV, and browse selected papers and presentations using the header links on this website.",
+          description: "See below for an abbreviated version of my CV (last updated: July 2026).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
